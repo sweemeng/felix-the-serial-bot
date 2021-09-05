@@ -10,4 +10,4 @@ Currently this uses 3 main library as well as the default m5stack library
 
 The video demo is 
 
-[![watch the video](https://img.youtube.com/vi/Vb3tKRiz-9Q/default.jpg)](https://www.youtube.com/watch?v=Vb3tKRiz-9Q)
+[![watch the video](https://img.youtube.com/vi/Vb3tKRiz-9Q/hqdefault.jpg)](https://www.youtube.com/watch?v=Vb3tKRiz-9Q)
